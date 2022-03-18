@@ -8,7 +8,7 @@ public class Payment implements Serializable {
 	private String name;
 	private Double dailyIncome;
 	private Integer days;
-
+	
 	public Payment() {
 	}
 
@@ -46,5 +46,4 @@ public class Payment implements Serializable {
 	public double getTotal() {
 		return days * dailyIncome;
 	}
-
 }

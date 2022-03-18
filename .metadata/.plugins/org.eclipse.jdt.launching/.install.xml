@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
-    <entry loc="C:\Users\T807314\Desktop\spring-suit\sts-4.14.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre" stamp="1647462627232"/>
-    <entry loc="C:\Users\T807314\Desktop\spring-suit\sts-4.14.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208" stamp="1647462628975"/>
+    <entry loc="C:\Program Files\Java\jdk-11.0.12" stamp="1636484070928"/>
+    <entry loc="D:\Programas\sts-4.12.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059" stamp="1636484257980"/>
+    <entry loc="D:\Programas\sts-4.12.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.0.v20211012-1059\jre" stamp="1636484257899"/>
 </dirs>
